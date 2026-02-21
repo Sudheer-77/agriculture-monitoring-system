@@ -1,0 +1,21 @@
+{
+  "name": "plantmonitoringsystem",
+  "version": "1.0.0",
+  "description": "This project is a **Smart Plant Monitoring System** developed using an **ESP32** microcontroller along with various sensors like the **DHT11**, **Ultrasonic Sensor**, **Soil Moisture Sensor**, and a **Blynk** app for monitoring plant health remotely.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shishir3D/PlantMonitoringSystem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Shishir3D/PlantMonitoringSystem/issues"
+  },
+  "homepage": "https://github.com/Shishir3D/PlantMonitoringSystem#readme"
+}
