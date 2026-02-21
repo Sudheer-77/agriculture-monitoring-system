@@ -1,4 +1,5 @@
 # Smart Plant Monitoring System
+https://smart-grow-cloud.lovable.app/
 
 This project is a **Smart Plant Monitoring System** developed using an **ESP32** microcontroller along with various sensors like the **DHT11**, **Ultrasonic Sensor**, **Soil Moisture Sensor**, and a **Blynk** app for monitoring plant health remotely.
 
